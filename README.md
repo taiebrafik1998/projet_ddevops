@@ -1,0 +1,1 @@
+mettre en  place le ssh  voir f/ze/sshworking
